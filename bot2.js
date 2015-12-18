@@ -14,9 +14,6 @@ function followed(eventMsg) {
  
 }
 
-
-
-
 //tweetIt();
 //setInterval(tweetIt, 1000*20);
 
